@@ -13,7 +13,7 @@ public class SecondActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        Log.d("SecondActivity", this.toString());
+        Log.d("SecondActivity", "Task id is " + getTaskId());
         setContentView(R.layout.second_layout);
 
         //向下一个活动传递数据
@@ -32,7 +32,9 @@ public class SecondActivity extends AppCompatActivity {
                 //finish();
 
                 //singleTop
-                Intent intent = new Intent(SecondActivity.this, FirstActivity.class);
+                //Intent intent = new Intent(SecondActivity.this, FirstActivity.class);
+                //singleInstance
+                Intent intent = new Intent(SecondActivity.this, ThirdActivity.class);
                 startActivity(intent);
             }
         });
