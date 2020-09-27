@@ -8,7 +8,7 @@
         android:id="@+id/button_1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="在活动中使用 Toast" />
+        android:text="在活动中使用 Toast\n+\n向下一个活动传递数据" />
 
     <Button
         android:id="@+id/button_3"
