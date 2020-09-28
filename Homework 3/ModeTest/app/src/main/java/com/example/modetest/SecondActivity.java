@@ -13,29 +13,58 @@ public class SecondActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        //Log.d("SecondActivity", "Task id is " + getTaskId());
+        //singleTop
+        Log.d("SecondActivity", this.toString());
+        //singleInstance
+        Log.d("SecondActivity", "Task id is " + getTaskId());
         setContentView(R.layout.second_layout);
 
-        //向下一个活动传递数据
+        /**
+         * 向下一个活动传递数据
+         */
         Intent intent = getIntent();
         String data = intent.getStringExtra("extra_data");
-        Log.d("SecondActivity", data);
+        //Log.d("SecondActivity", data);
 
         Button button2 = (Button) findViewById(R.id.button_2);
         button2.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View v) {
-                //返回数据给上一个活动
+                /**
+                 * 返回数据给上一个活动
+                 */
                 Intent intent = new Intent();
                 intent.putExtra("data_return", "Hello FirstActivity");
                 setResult(RESULT_OK, intent);
                 finish();
 
-                //singleTop
-                //Intent intent = new Intent(SecondActivity.this, FirstActivity.class);
-                //singleInstance
+                //singleInstance:单实例模式
                 //Intent intent = new Intent(SecondActivity.this, ThirdActivity.class);
                 //startActivity(intent);
+            }
+        });
+
+        Button button9 = (Button) findViewById(R.id.button_9);
+        button9.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                /**
+                 * singleTop + singleTask:单顶模式+单任务模式
+                 */
+                Intent intent = new Intent(SecondActivity.this, FirstActivity.class);
+                startActivity(intent);
+            }
+        });
+
+        Button button10 = (Button) findViewById(R.id.button_10);
+        button10.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                /**
+                 * singleInstance:单实例模式
+                 */
+                Intent intent = new Intent(SecondActivity.this, ThirdActivity.class);
+                startActivity(intent);
             }
         });
     }

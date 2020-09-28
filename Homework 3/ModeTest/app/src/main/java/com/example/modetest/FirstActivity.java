@@ -19,7 +19,10 @@ public class FirstActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        //Log.d("FirstActivity", "Task id is " + getTaskId());
+        //standard
+        Log.d("FirstActivity", this.toString());
+        //singleInstance
+        Log.d("FirstActivity", "Task id is " + getTaskId());
         setContentView(R.layout.first_layout);
 
         Button button1 = (Button) findViewById(R.id.button_1);
@@ -43,21 +46,13 @@ public class FirstActivity extends AppCompatActivity {
                  * 返回数据给上一个活动
                  */
                 startActivityForResult(intent, 1);
-
-                //standard:标准模式
-                //Intent intent = new Intent(FirstActivity.this, FirstActivity.class);
-                //singleTop:单顶模式
-                //Intent intent = new Intent(FirstActivity.this, SecondActivity.class);
-
-
-
             }
         });
 
         Button button3 = (Button) findViewById(R.id.button_3);
         button3.setOnClickListener(new View.OnClickListener() {
             @Override
-            public void onClick(View view) {
+            public void onClick(View v) {
                 /**
                  * Intent
                  */
@@ -75,13 +70,12 @@ public class FirstActivity extends AppCompatActivity {
         Button button4 = (Button) findViewById(R.id.button_4);
         button4.setOnClickListener(new View.OnClickListener() {
             @Override
-            public void onClick(View view) {
+            public void onClick(View v) {
                 /**
                  * 百度
                  */
                 Intent intent = new Intent(Intent.ACTION_VIEW);
                 intent.setData(Uri.parse("http://www.baidu.com"));
-
                 startActivity(intent);
             }
         });
@@ -89,7 +83,7 @@ public class FirstActivity extends AppCompatActivity {
         Button button6 = (Button) findViewById(R.id.button_6);
         button6.setOnClickListener(new View.OnClickListener() {
             @Override
-            public void onClick(View view) {
+            public void onClick(View v) {
                 /**
                  * 拨打电话
                  */
@@ -98,6 +92,31 @@ public class FirstActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+
+        Button button7 = (Button) findViewById(R.id.button_7);
+        button7.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                /**
+                 * standard:标准模式
+                 */
+                Intent intent = new Intent(FirstActivity.this, FirstActivity.class);
+                startActivity(intent);
+            }
+        });
+
+        Button button8 = (Button) findViewById(R.id.button_8);
+        button8.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                /**
+                 * singleTop + singleTask + singleInstance:单顶模式+单任务模式+单实例模式
+                 */
+                Intent intent = new Intent(FirstActivity.this, SecondActivity.class);
+                startActivity(intent);
+            }
+        });
+
     }
 
     /**

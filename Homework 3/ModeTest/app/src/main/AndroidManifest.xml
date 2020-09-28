@@ -19,6 +19,7 @@
                 <data android:scheme="http" />
             </intent-filter>
         </activity>
+                                <!-- android:launchMode=" " -->
         <activity
             android:name=".SecondActivity"
             android:launchMode="singleInstance"
@@ -29,13 +30,13 @@
                 <category android:name="com.example.modetest.MY_CATEGORY" />
             </intent-filter>
         </activity>
+                                <!-- android:launchMode=" " -->
         <activity
             android:name=".FirstActivity"
             android:launchMode="singleTask"
             android:label="This is FirstActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>

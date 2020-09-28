@@ -28,4 +28,16 @@
         android:layout_height="wrap_content"
         android:text="拨打电话" />
 
+    <Button
+        android:id="@+id/button_7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="标准模式" />
+
+    <Button
+        android:id="@+id/button_8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="单顶 + 单任务 + 单实例模式" />
+
 </LinearLayout>

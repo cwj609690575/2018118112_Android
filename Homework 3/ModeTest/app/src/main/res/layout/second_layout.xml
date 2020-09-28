@@ -13,4 +13,16 @@
         android:layout_height="wrap_content"
         android:text="返回数据给上一个活动" />
 
+    <Button
+        android:id="@+id/button_9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="单顶 + 单任务模式（返回）" />
+
+    <Button
+        android:id="@+id/button_10"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="单实例模式（返回）" />
+
 </LinearLayout>
