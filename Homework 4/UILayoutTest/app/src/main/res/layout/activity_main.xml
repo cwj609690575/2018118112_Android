@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:orientation="horizontal"
+
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
@@ -39,7 +39,7 @@
         android:text="Send" />
     -->
 
-    <!--    2.相对布局：RelativeLayout     -->
+    <!--    2.相对布局：RelativeLayout
     <Button
         android:id="@+id/button1"
         android:layout_width="wrap_content"
@@ -74,7 +74,50 @@
         android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"
         android:text="Button 5" />
+    -->
 
+    <!--    3.帧布局：FrameLayout
+    <TextView
+        android:id="@+id/text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:text="This is TextView" />
+    <ImageView
+        android:id="@+id/image_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:src="@mipmap/ic_launcher" />
+    -->
 
-    <!--    帧布局：FrameLayout     -->
-</RelativeLayout>
+    <!--    4.百分比布局：PercentFrameLayout
+        androidx.percentlayout.widget.PercentFrameLayout
+    <Button
+        android:id="@+id/button1"
+        android:text="Button 1"
+        android:layout_gravity="left|top"
+        app:layout_widthPercent="50%"
+        app:layout_heightPercent="50%" />
+    <Button
+        android:id="@+id/button2"
+        android:text="Button 2"
+        android:layout_gravity="right|top"
+        app:layout_widthPercent="50%"
+        app:layout_heightPercent="50%" />
+    <Button
+        android:id="@+id/button3"
+        android:text="Button 3"
+        android:layout_gravity="left|bottom"
+        app:layout_widthPercent="50%"
+        app:layout_heightPercent="50%" />
+    <Button
+        android:id="@+id/button4"
+        android:text="Button 4"
+        android:layout_gravity="right|bottom"
+        app:layout_widthPercent="50%"
+        app:layout_heightPercent="50%" />
+    -->
+
+    <include layout="@layout/title" />
+</LinearLayout>
