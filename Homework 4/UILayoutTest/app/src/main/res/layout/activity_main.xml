@@ -119,5 +119,4 @@
         app:layout_heightPercent="50%" />
     -->
 
-    <include layout="@layout/title" />
 </LinearLayout>
