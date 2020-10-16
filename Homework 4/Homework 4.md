@@ -59,6 +59,3 @@
 ![](https://github.com/cwj609690575/2018118112_Android/blob/homework/Homework%204/PrintScreen/PercentFrameLayout.JPG)
 
 不需要使用wrap_content、match_parent等属性来指定控件大小，而是直接指定控件在布局中所占的百分比，这样就可以以任意比例分割布局。
-
-## 三、ListView的用法
-
