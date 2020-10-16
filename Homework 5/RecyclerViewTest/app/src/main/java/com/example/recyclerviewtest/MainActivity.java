@@ -28,10 +28,15 @@ public class MainActivity extends AppCompatActivity {
         RecyclerView recyclerView = (RecyclerView) findViewById(R.id.recycler_view);
 
         /**
-         *
+         * 纵向滚动（默认）
          */
         //LinearLayoutManager layoutManager = new LinearLayoutManager(this);
+
+        /**
+         * 横向滚动
+         */
         //layoutManager.setOrientation(LinearLayoutManager.HORIZONTAL);
+
         /**
          * 瀑布流布局
          */

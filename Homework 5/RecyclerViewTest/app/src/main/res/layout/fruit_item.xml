@@ -3,9 +3,8 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:layout_margin="5dp">
-
-
+    android:layout_margin="5dp"
+    >
 
     <!--    1.纵向滚动
     <ImageView
@@ -20,7 +19,7 @@
         android:layout_marginLeft="10dp" />
     -->
 
-    <!--    2.纵向滚动
+    <!--    2.横向滚动
     <ImageView
         android:id="@+id/fruit_image"
         android:layout_width="wrap_content"
@@ -46,4 +45,5 @@
         android:layout_height="wrap_content"
         android:layout_gravity="left"
         android:layout_marginTop="10dp" />
+
 </LinearLayout>
