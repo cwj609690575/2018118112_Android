@@ -16,17 +16,17 @@
 
 ### 2.ProcessBar
 
-
+![](https://github.com/cwj609690575/2018118112_Android/blob/homework/Homework%204/PrintScreen/ProcessBar1.JPG)
 
 (1)指定了旋转的圆形进度条，表明程序正在加载数据，再点一下Button后进度条消失；
 
-
+![](https://github.com/cwj609690575/2018118112_Android/blob/homework/Homework%204/PrintScreen/ProcessBar2.JPG)
 
 (2)指定了水平进度条，每点一次Button就能够更新进度。
 
 ### 3.AlertDialog
 
-
+![](https://github.com/cwj609690575/2018118112_Android/blob/homework/Homework%204/PrintScreen/AlertDialog.JPG)
 
 点击Button后，在当前的页面弹出一个对话框，该对话框置顶于所有界面元素之上，且能够屏蔽掉其他控件的交互能力。
 
@@ -34,17 +34,29 @@
 
 ### 1.线性布局（LinearLayout）
 
+![](https://github.com/cwj609690575/2018118112_Android/blob/homework/Homework%204/PrintScreen/LinearLayout1.JPG)
 
+(1)
+
+![](https://github.com/cwj609690575/2018118112_Android/blob/homework/Homework%204/PrintScreen/LinearLayout2.JPG)
+
+(2)
 
 ### 2.相对布局（RelativeLayout）
+
+![](https://github.com/cwj609690575/2018118112_Android/blob/homework/Homework%204/PrintScreen/RelativeLayout.JPG)
 
 
 
 ### 3.帧布局（FrameLayout）
 
+![](https://github.com/cwj609690575/2018118112_Android/blob/homework/Homework%204/PrintScreen/FrameLayout.JPG)
+
 
 
 ### 4.百分比布局（PercentFrameLayout）
+
+![](https://github.com/cwj609690575/2018118112_Android/blob/homework/Homework%204/PrintScreen/PercentFrameLayout.JPG)
 
 
 
