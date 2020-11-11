@@ -18,7 +18,7 @@
 
 ![](https://github.com/cwj609690575/2018118112_Android/blob/homework/Homework%201%2B2/PrintScreen/3.%E9%80%80%E5%87%BA%E6%99%AE%E9%80%9A%E6%B4%BB%E5%8A%A8.JPG)
 
-4.点击“打开对话框式的活动”按钮，在启动DialogActivity时并没有将MainActivity完全遮挡，因此只有onPause()方法执行（MainActivity只进入了暂停状态，并未进入停止状态）
+4.点击“打开对话框式的活动”按钮，在启动DialogActivity时并没有将MainActivity完全遮挡，因此只有onPause()方法执行（MainActivity只进入了暂停状态，但并未进入停止状态）
 
 ![](https://github.com/cwj609690575/2018118112_Android/blob/homework/Homework%201%2B2/PrintScreen/4.%E5%90%AF%E5%8A%A8%E5%AF%B9%E8%AF%9D%E6%A1%86%E6%B4%BB%E5%8A%A8.JPG)
 
