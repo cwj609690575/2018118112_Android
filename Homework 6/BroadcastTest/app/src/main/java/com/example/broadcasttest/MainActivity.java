@@ -1,7 +1,6 @@
 package com.example.broadcasttest;
 
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
@@ -16,7 +15,6 @@ import android.widget.Toast;
 public class MainActivity extends AppCompatActivity {
 
     private IntentFilter intentFilter;
-
     private NetworkChangeReceiver networkChangeReceiver;
 
     @Override
