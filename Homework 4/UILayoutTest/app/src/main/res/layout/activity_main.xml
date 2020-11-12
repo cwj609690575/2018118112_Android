@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.percentlayout.widget.PercentFrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
@@ -25,7 +24,8 @@
         android:layout_height="wrap_content"
         android:layout_gravity="bottom"
         android:text="Button 3" />
-
+    -->
+    <!--
     <EditText
         android:id="@+id/input_message"
         android:layout_width="0dp"
@@ -82,6 +82,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="left"
+        android:textSize="24sp"
         android:text="This is TextView" />
     <ImageView
         android:id="@+id/image_view"
@@ -92,7 +93,7 @@
     -->
 
     <!--    4.百分比布局：PercentFrameLayout
-        androidx.percentlayout.widget.PercentFrameLayout
+        androidx.percentlayout.widget.PercentFrameLayout    -->
     <Button
         android:id="@+id/button1"
         android:text="Button 1"
@@ -117,6 +118,6 @@
         android:layout_gravity="right|bottom"
         app:layout_widthPercent="50%"
         app:layout_heightPercent="50%" />
-    -->
 
-</LinearLayout>
+
+</androidx.percentlayout.widget.PercentFrameLayout>
