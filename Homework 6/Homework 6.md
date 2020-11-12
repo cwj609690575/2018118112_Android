@@ -8,21 +8,17 @@
 
 ### 2.静态注册实现开机启动
 
-
+![](https://github.com/cwj609690575/2018118112_Android/blob/homework/Homework%206/PrintScreen/%E9%9D%99%E6%80%81%E6%B3%A8%E5%86%8C%E5%AE%9E%E7%8E%B0%E5%BC%80%E6%9C%BA%E5%B9%BF%E6%92%AD.JPG)
 
 ### 3.发送自定义广播
 
-
-
 #### (1)标准广播
 
-
+![](https://github.com/cwj609690575/2018118112_Android/blob/homework/Homework%206/PrintScreen/%E8%87%AA%E5%AE%9A%E4%B9%89%E5%B9%BF%E6%92%AD(%E6%A0%87%E5%87%86%E5%B9%BF%E6%92%AD).JPG)
 
 #### (2)发送标准广播至两个程序
 
-
-
-(3)
+![](https://github.com/cwj609690575/2018118112_Android/blob/homework/Homework%206/PrintScreen/%E5%8F%91%E9%80%81%E6%A0%87%E5%87%86%E5%B9%BF%E6%92%AD(1).JPG) ![](https://github.com/cwj609690575/2018118112_Android/blob/homework/Homework%206/PrintScreen/%E5%8F%91%E9%80%81%E6%A0%87%E5%87%86%E5%B9%BF%E6%92%AD(2).JPG)
 
 
 
