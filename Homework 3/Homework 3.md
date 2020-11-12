@@ -22,7 +22,7 @@
 
 ​	使用单顶模式可以很好地解决重复创建栈顶活动的问题，但是如果该活动没有处于栈顶位置，还是很可能创建多个活动实例的。当活动的启动模式指定为singleTask，每次启动该活动时系统首先会在返回栈中检查是否存在该活动的实例，若存在则直接使用该实例，并把存在于这个活动之上的所有活动统统出栈，如果不存在则创建一个新的活动实例。
 
-​	启动程序，在SecondActivity下启动FirstActivity时，该模式会发现返回栈中已经存在一个FirstActivity的实例，并且在SecondActivity的下面，因此SecondActivity执行onDestroy()方法，从返回栈中出栈；而FirstActivity则执行onRestart()方法，重新成为栈顶活动。
+​	启动程序，在SecondActivity下启动FirstActivity时，该模式会发现返回栈中已经存在了一个FirstActivity的实例，并且在SecondActivity的下面，因此SecondActivity执行onDestroy()方法，从返回栈中出栈；而FirstActivity则执行onRestart()方法，重新成为栈顶活动。
 
 ![](https://github.com/cwj609690575/2018118112_Android/blob/homework/Homework%203/PrintScreen/3.singleTask.JPG)
 
