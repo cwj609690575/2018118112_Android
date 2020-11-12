@@ -8,7 +8,7 @@
 
 ### 在这个布局中，定义了一个ImageView来显示水果的图片，还定义了一个TextView来显示水果的名称。
 
-### 在MainActivity中，添加了一个initFruits() 方法（初始化所有水果数据），在Fruit类的构造函数中将水果名字和对应图片ID传入，然后将创建好的对象添加到水果列表中。
+### 在MainActivity中，添加了一个initFruits() 方法（初始化所有水果的数据），在Fruit类的构造函数中将水果名字和对应图片ID传入，然后将创建好的对象添加到水果列表中。
 
 ## 二、更强大的滚动控件 —— RecyclerView
 
