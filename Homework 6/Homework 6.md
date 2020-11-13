@@ -1,4 +1,4 @@
-# Homework 5: ListView & RecyclerView
+# Homework 6: ListView & RecyclerView
 
 ## 一、最常用、最难用的控件 —— ListView
 
