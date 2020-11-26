@@ -4,7 +4,7 @@
 
 ### 1.创建子程序的程序框架(3种方法)
 
-#### （1）创建一个类继承自Thread，然后重写父类的run（）方法，在方法内编写耗时逻辑即可，代码如下：
+#### （1）创建一个类继承自Thread，然后重写父类的run（）方法，在方法内编写耗时逻辑，代码如下：
 
 ```java
 class MyThread extends Thread{
@@ -80,9 +80,9 @@ new Thread(new Runnable(){
 
 ### 1.启动和停止服务
 
-![](https://github.com/cwj609690575/2018118112_Android/blob/homework/Homework%207/PrintScreen/%E5%90%AF%E5%8A%A8%E5%92%8C%E5%81%9C%E6%AD%A2%E6%9C%8D%E5%8A%A1(%E8%BF%90%E8%A1%8C%E7%95%8C%E9%9D%A2).JPG)
+![](https://github.com/cwj609690575/2018118112_Android/blob/homework/Homework%208/PrintScreen/%E5%90%AF%E5%8A%A8%E5%92%8C%E5%81%9C%E6%AD%A2%E6%9C%8D%E5%8A%A1(%E8%BF%90%E8%A1%8C%E7%95%8C%E9%9D%A2).JPG)
 
-![](https://github.com/cwj609690575/2018118112_Android/blob/homework/Homework%207/PrintScreen/%E6%B4%BB%E5%8A%A8%E5%92%8C%E6%9C%8D%E5%8A%A1%E8%BF%9B%E8%A1%8C%E9%80%9A%E4%BF%A1(%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C).JPG)
+![](https://github.com/cwj609690575/2018118112_Android/blob/homework/Homework%208/PrintScreen/%E5%90%AF%E5%8A%A8%E5%92%8C%E5%81%9C%E6%AD%A2%E6%9C%8D%E5%8A%A1(%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C).JPG)
 
 ##### 服务类MyService是继承自Service类的，说明这是一个服务。目前MyService类中空空如也，只有一个onBind()方法，它是Service中唯一的一个抽象方法，因此必须要在子类中实现。
 
@@ -92,9 +92,9 @@ new Thread(new Runnable(){
 
 ### 2.活动和服务进行通信(子服务绑定并运行在异步任务)
 
-![](https://github.com/cwj609690575/2018118112_Android/blob/homework/Homework%207/PrintScreen/%E6%B4%BB%E5%8A%A8%E5%92%8C%E6%9C%8D%E5%8A%A1%E8%BF%9B%E8%A1%8C%E9%80%9A%E4%BF%A1(%E8%BF%90%E8%A1%8C%E7%95%8C%E9%9D%A2).JPG)
+![](https://github.com/cwj609690575/2018118112_Android/blob/homework/Homework%208/PrintScreen/%E6%B4%BB%E5%8A%A8%E5%92%8C%E6%9C%8D%E5%8A%A1%E8%BF%9B%E8%A1%8C%E9%80%9A%E4%BF%A1(%E8%BF%90%E8%A1%8C%E7%95%8C%E9%9D%A2).JPG)
 
-![](https://github.com/cwj609690575/2018118112_Android/blob/homework/Homework%207/PrintScreen/%E6%B4%BB%E5%8A%A8%E5%92%8C%E6%9C%8D%E5%8A%A1%E8%BF%9B%E8%A1%8C%E9%80%9A%E4%BF%A1(%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C).JPG)
+![](https://github.com/cwj609690575/2018118112_Android/blob/homework/Homework%208/PrintScreen/%E6%B4%BB%E5%8A%A8%E5%92%8C%E6%9C%8D%E5%8A%A1%E8%BF%9B%E8%A1%8C%E9%80%9A%E4%BF%A1(%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C).JPG)
 
 ##### 对活动和服务进行绑定，使用继承自Service的MyService类中的onBind()方法，如果需要解除它们之间的绑定，调用一下unbindService()方法就可以了。
 
@@ -102,7 +102,7 @@ new Thread(new Runnable(){
 
 ### 3.使用前台服务
 
-![](https://github.com/cwj609690575/2018118112_Android/blob/homework/Homework%207/PrintScreen/%E5%89%8D%E5%8F%B0%E6%9C%8D%E5%8A%A1.JPG)
+![](https://github.com/cwj609690575/2018118112_Android/blob/homework/Homework%208/PrintScreen/%E5%89%8D%E5%8F%B0%E6%9C%8D%E5%8A%A1.JPG)
 
 ##### 服务基本都是在后台运行的，且服务的优先级比较低，当系统出现运行内存不足的情况时，有可能回收掉正在后台运行的服务，因此可以考虑使用前台服务。
 
@@ -110,9 +110,9 @@ new Thread(new Runnable(){
 
 ### 4.使用 IntentService
 
-![](https://github.com/cwj609690575/2018118112_Android/blob/homework/Homework%207/PrintScreen/%E4%BD%BF%E7%94%A8IntentService(%E8%BF%90%E8%A1%8C%E7%95%8C%E9%9D%A2).JPG)
+![](https://github.com/cwj609690575/2018118112_Android/blob/homework/Homework%208/PrintScreen/%E4%BD%BF%E7%94%A8IntentService(%E8%BF%90%E8%A1%8C%E7%95%8C%E9%9D%A2).JPG)
 
-![](https://github.com/cwj609690575/2018118112_Android/blob/homework/Homework%207/PrintScreen/%E4%BD%BF%E7%94%A8IntentService(%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C).JPG)
+![](https://github.com/cwj609690575/2018118112_Android/blob/homework/Homework%208/PrintScreen/%E6%B4%BB%E5%8A%A8%E5%92%8C%E6%9C%8D%E5%8A%A1%E8%BF%9B%E8%A1%8C%E9%80%9A%E4%BF%A1(%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C).JPG)
 
 ##### 服务中的代码都是默认运行在主线程中的，如果直接在服务里去处理一些耗时的逻辑，就很容易出现应用无响应的情况。使用IntentService后运行程序，观察logcat中的打印日志，可以发现MyIntentService与MainActivity所在的线程 id 不一样，并且onDestroy()方法也得到执行，这说明MyIntentService在运行完毕后确实自动停止了。
 
