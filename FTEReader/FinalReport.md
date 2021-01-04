@@ -14,9 +14,7 @@
 
 该应用Logo：
 
-
-
-
+<img src="./FTEReader/PrintScreen/Logo.jpg"/>
 
 ## **二、程序界面**
 
