@@ -50,7 +50,7 @@
 
 (3)横屏模式
 
-<img src="https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/%E6%A8%AA%E5%B1%8F%E6%A8%A1%E5%BC%8F.jpg" width=400/>
+<img src="https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/%E6%A8%AA%E5%B1%8F%E6%A8%A1%E5%BC%8F.jpg" width=500/>
 
 
 
