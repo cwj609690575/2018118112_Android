@@ -12,9 +12,9 @@
 
 ​		**(4)可搜索大量在线书籍**
 
-该应用Logo：
+该应用Logo：![](https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/Logo.jpg)
 
-<img src="./FTEReader/PrintScreen/Logo.jpg"/>
+
 
 ## **二、程序界面**
 
@@ -114,16 +114,16 @@
 
 ## **四、所运用到的技术**
 
-**1.书架和搜索信息数据库的创建管理**
+1.书架和搜索信息数据库的创建管理
 
-**2.网络访问API查询书籍**
+2.网络访问API查询书籍
 
-**3.RecyclerView、ListView显示书籍条目**
+3.RecyclerView、ListView显示书籍条目
 
-**4.RadioGroup制作导航栏**
+4.RadioGroup制作导航栏
 
-**5.ViewPager+Fragment实现滑动切换页面**
+5.ViewPager+Fragment实现滑动切换页面
 
-**6.广播实现系统电量、时间的获取**
+6.广播实现系统电量、时间的获取
 
-**7.RecyclerView的下拉刷新、上拉加载**
+7.RecyclerView的下拉刷新、上拉加载
