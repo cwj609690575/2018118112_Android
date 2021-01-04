@@ -20,45 +20,45 @@
 
 (1)书架界面（移除书籍）
 
-
+<img src="https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/%E4%B9%A6%E6%9E%B6%E7%95%8C%E9%9D%A2.jpg" width=400/> <img src="https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/%E4%B9%A6%E6%9E%B6%E5%88%A0%E9%99%A4.jpg" width=400/>
 
 (2)排行榜界面（最热榜）
 
-
+<img src="https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/Logo.jpg" width=400/> <img src="https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/Logo.jpg" width=400/>
 
 (3)分类界面（科幻类）
 
-
+<img src="https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/Logo.jpg" width=400/> <img src="https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/Logo.jpg" width=400/>
 
 (4)搜索界面（热搜＋搜索历史）
 
-
+<img src="https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/Logo.jpg" width=400/> <img src="https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/Logo.jpg" width=400/>
 
 ### **2.书籍详情界面（同类推荐）**
 
-
+<img src="https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/Logo.jpg" width=400/> <img src="https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/Logo.jpg" width=400/>
 
 ### **3.小说阅读界面**
 
 (1)阅读界面
 
-
+<img src="https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/Logo.jpg" width=400/>
 
 (2)夜间模式
 
-
+<img src="https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/Logo.jpg" width=400/>
 
 (3)横屏模式
 
-
+<img src="https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/Logo.jpg" width=400/>
 
 (4)章节跳转
 
-
+<img src="https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/Logo.jpg" width=400/>
 
 (5)字体调整
 
-
+<img src="https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/Logo.jpg" width=400/>
 
 
 
