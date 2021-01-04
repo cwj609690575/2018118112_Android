@@ -16,7 +16,7 @@
 
 ![](https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/Logo.jpg)
 
-<img src=“https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/Logo.jpg” style=“width:200px height:300px” />
+<img src="https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/Logo.jpg" width=400/>
 
 ## **二、程序界面**
 
