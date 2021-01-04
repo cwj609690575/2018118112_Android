@@ -40,25 +40,17 @@
 
 ### **3.小说阅读界面**
 
-(1)阅读界面
+(1)阅读界面＋夜间模式
 
-<img src="https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/%E9%98%85%E8%AF%BB%E7%95%8C%E9%9D%A2.jpg" width=300/>
+<img src="https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/%E9%98%85%E8%AF%BB%E7%95%8C%E9%9D%A2.jpg" width=300/> <img src="https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/%E5%A4%9C%E9%97%B4%E6%A8%A1%E5%BC%8F.jpg" width=300/>
 
-(2)夜间模式
+(2)章节跳转＋字体调整
 
-<img src="https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/%E5%A4%9C%E9%97%B4%E6%A8%A1%E5%BC%8F.jpg" width=300/>
+<img src="https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/%E7%AB%A0%E8%8A%82%E8%B7%B3%E8%BD%AC.jpg" width=300/> <img src="https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/%E5%AD%97%E4%BD%93%E5%A4%A7%E5%B0%8F%E8%B0%83%E6%95%B4.jpg" width=300/>
 
 (3)横屏模式
 
-<img src="https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/%E6%A8%AA%E5%B1%8F%E6%A8%A1%E5%BC%8F.jpg" width=300/>
-
-(4)章节跳转
-
-<img src="https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/%E7%AB%A0%E8%8A%82%E8%B7%B3%E8%BD%AC.jpg" width=300/>
-
-(5)字体调整
-
-<img src="https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/%E5%AD%97%E4%BD%93%E5%A4%A7%E5%B0%8F%E8%B0%83%E6%95%B4.jpg" width=300/>
+<img src="https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/%E6%A8%AA%E5%B1%8F%E6%A8%A1%E5%BC%8F.jpg" width=400/>
 
 
 
