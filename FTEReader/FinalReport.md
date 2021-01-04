@@ -12,9 +12,11 @@
 
 ​		**(4)可搜索大量在线书籍**
 
-该应用Logo：![](https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/Logo.jpg)
+该应用Logo：
 
+![](https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/Logo.jpg)
 
+<img src=“https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/Logo.jpg” style=“width:200px height:300px” />
 
 ## **二、程序界面**
 
