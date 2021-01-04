@@ -2,7 +2,7 @@
 
 ## **一、HelloWorld显示**
 
-![](https://github.com/cwj609690575/2018118112_Android/blob/homework/Homework%201%2B2/PrintScreen/HelloWorld.JPG)
+![](https://github.com/cwj609690575/2018118112_Android/blob/homework/Homework%201%262/PrintScreen/HelloWorld.JPG)
 
 ## **二、生命周期的回调函数在不同条件下的触发条件和运行机制**
 
