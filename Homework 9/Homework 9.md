@@ -1,6 +1,4 @@
-
-
-[toc]
+# Homework 9: Material Design 实战
 
 ## 1.设置ToolBar
 
@@ -8,7 +6,7 @@
 
 由下图中的android:theme="@style/AppTheme"可知，安卓的主题是由value下的style文件中的AppTheme输定定义的。
 
-![1606485456571](实验报告12.assets/1606485456571.png)
+![1606485456571](PrintScreen/1606485456571.png)
 
 修改主题为NoActionBar，隐藏ActionBar如下：
 
