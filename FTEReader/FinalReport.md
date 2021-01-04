@@ -20,45 +20,45 @@
 
 (1)书架界面（移除书籍）
 
-<img src="https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/%E4%B9%A6%E6%9E%B6%E7%95%8C%E9%9D%A2.jpg" width=400/> <img src="https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/%E4%B9%A6%E6%9E%B6%E5%88%A0%E9%99%A4.jpg" width=400/>
+<img src="https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/%E4%B9%A6%E6%9E%B6%E7%95%8C%E9%9D%A2.jpg" width=300/> <img src="https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/%E4%B9%A6%E6%9E%B6%E5%88%A0%E9%99%A4.jpg" width=300/>
 
 (2)排行榜界面（最热榜）
 
-<img src="https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/Logo.jpg" width=400/> <img src="https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/Logo.jpg" width=400/>
+<img src="https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/%E6%8E%92%E8%A1%8C%E6%A6%9C%E7%95%8C%E9%9D%A2.jpg" width=300/> <img src="https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/%E6%8E%92%E8%A1%8C%E6%A6%9C(2).jpg" width=300/>
 
 (3)分类界面（科幻类）
 
-<img src="https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/Logo.jpg" width=400/> <img src="https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/Logo.jpg" width=400/>
+<img src="https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/%E5%88%86%E7%B1%BB%E7%95%8C%E9%9D%A2.jpg" width=300/> <img src="https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/%E5%88%86%E7%B1%BB(2).jpg" width=300/>
 
 (4)搜索界面（热搜＋搜索历史）
 
-<img src="https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/Logo.jpg" width=400/> <img src="https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/Logo.jpg" width=400/>
+<img src="https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/%E6%90%9C%E7%B4%A2%E7%95%8C%E9%9D%A2.jpg" width=300/>
 
 ### **2.书籍详情界面（同类推荐）**
 
-<img src="https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/Logo.jpg" width=400/> <img src="https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/Logo.jpg" width=400/>
+<img src="https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/%E4%B9%A6%E7%B1%8D%E8%AF%A6%E6%83%85.jpg" width=300/> <img src="https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/%E5%90%8C%E7%B1%BB%E6%8E%A8%E8%8D%90.jpg" width=300/>
 
 ### **3.小说阅读界面**
 
 (1)阅读界面
 
-<img src="https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/Logo.jpg" width=400/>
+<img src="https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/%E9%98%85%E8%AF%BB%E7%95%8C%E9%9D%A2.jpg" width=300/>
 
 (2)夜间模式
 
-<img src="https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/Logo.jpg" width=400/>
+<img src="https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/%E5%A4%9C%E9%97%B4%E6%A8%A1%E5%BC%8F.jpg" width=300/>
 
 (3)横屏模式
 
-<img src="https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/Logo.jpg" width=400/>
+<img src="https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/%E6%A8%AA%E5%B1%8F%E6%A8%A1%E5%BC%8F.jpg" width=300/>
 
 (4)章节跳转
 
-<img src="https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/Logo.jpg" width=400/>
+<img src="https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/%E7%AB%A0%E8%8A%82%E8%B7%B3%E8%BD%AC.jpg" width=300/>
 
 (5)字体调整
 
-<img src="https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/Logo.jpg" width=400/>
+<img src="https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/PrintScreen/%E5%AD%97%E4%BD%93%E5%A4%A7%E5%B0%8F%E8%B0%83%E6%95%B4.jpg" width=300/>
 
 
 
