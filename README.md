@@ -1,5 +1,7 @@
 # **This is an Android works branch.**
 
+## **点击作业进入实验报告**
+
 ### [Homework 1&2：生命周期的截图与分析](https://github.com/cwj609690575/2018118112_Android/blob/homework/Homework%201%262/Homework%201%262.md)
 
 ### [Homework 3：四种模式](https://github.com/cwj609690575/2018118112_Android/blob/homework/Homework%203/Homework%203.md)
@@ -16,6 +18,6 @@
 
 ### [Homework 9： Material Design 实战](https://github.com/cwj609690575/2018118112_Android/blob/homework/Homework%209/Homework%209.md)
 
-### [Coolweather：酷欧天气项目](https://github.com/cwj609690575/2018118112_Android/tree/homework/Coolweather)
+### [Coolweather：酷欧天气项目](https://github.com/cwj609690575/2018118112_Android/blob/homework/Coolweather/Coolweather.md)
 
 ### [FTEReader：在线小说阅读器（期末大作业）](https://github.com/cwj609690575/2018118112_Android/blob/homework/FTEReader/FinalReport.md)
